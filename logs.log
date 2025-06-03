@@ -1,0 +1,18 @@
+2025-05-31 14:03:51,458 - INFO - Home page visited.
+2025-05-31 14:03:55,891 - INFO - Home page visited.
+2025-05-31 14:04:08,644 - WARNING - Login failed: user 'kunal gangarde' not found.
+2025-05-31 14:04:32,448 - INFO - User logged in successfully: kartik ghuge
+2025-05-31 14:04:32,458 - INFO - Portfolio page accessed.
+2025-05-31 20:12:57,627 - INFO - Home page visited.
+2025-05-31 20:13:05,760 - INFO - User logged in successfully: kartik ghuge
+2025-05-31 20:13:05,768 - INFO - Portfolio page accessed.
+2025-05-31 20:13:32,277 - INFO - Home page visited.
+2025-05-31 20:33:28,967 - INFO - Home page visited.
+2025-05-31 20:34:07,369 - INFO - Register page visited.
+2025-05-31 20:44:17,641 - INFO - Home page visited.
+2025-05-31 20:44:35,595 - INFO - User logged in successfully: kartik ghuge
+2025-05-31 20:44:35,602 - INFO - Portfolio page accessed.
+2025-05-31 20:44:59,668 - INFO - Home page visited.
+2025-05-31 20:45:07,703 - WARNING - Login failed: wrong password for user 'kartik ghuge'.
+2025-06-02 10:00:02,216 - INFO - Home page visited.
+2025-06-02 10:03:20,109 - WARNING - Login failed: user 'itz__me_siddharth' not found.
